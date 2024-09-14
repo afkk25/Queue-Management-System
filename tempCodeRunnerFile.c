@@ -1,1 +1,0 @@
-temp_index = parent_index;
